@@ -1,1 +1,5 @@
-
+myAPIKey="*HERE GOES THE API KEY*"
+myIP="127.0.0.1"
+myBaud="9600"
+mySerialPort="/dev/ttyUSB0"
+checkShutdownFlag="/tmp/shutdown.go"
