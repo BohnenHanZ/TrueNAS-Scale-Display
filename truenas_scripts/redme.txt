@@ -1,1 +1,0 @@
-These scripts are on the truenas server itself I installed mine under /root/display/
